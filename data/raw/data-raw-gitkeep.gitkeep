@@ -1,0 +1,6 @@
+# This file keeps the folder in git
+# Even when the folder is empty, git will track it
+
+# Place your input data here:
+# - channels.xlsx (Excel file with channel names)
+# - Any other input files for Notebook 01
